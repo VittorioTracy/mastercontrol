@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-This agent uses the python-openzwave library to connect to a USB zwave controller and replicates zwave events into MCP and vice versa.
+This agent uses the python-openzwave library to connect to a USB Zwave controller and replicates Zwave events into MCP and vice versa.
 """
 
 from lib.event import event
